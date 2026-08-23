@@ -106,12 +106,11 @@ My approach is simple:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muzaffarjutt470-star&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muzaffarjutt470-star&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=muzaffarjutt470-star&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarjutt470-star&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -127,7 +126,7 @@ My approach is simple:
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzaffarjutt470-star&theme=tokyo-night">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzaffarjutt470-star&theme=tokyo-night&hide_border=true">
 </p>
 
 <p align="center">
