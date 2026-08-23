@@ -109,8 +109,8 @@ My approach is simple:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzaffarjutt470-star&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarjutt470-star&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=muzaffarjutt470-star&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarjutt470-star&layout=compact&theme=tokyonight&hide_border=true" height="170">
 </p>
 
 ---
@@ -128,6 +128,8 @@ My approach is simple:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muzaffarjutt470-star&theme=tokyo-night&hide_border=true">
 </p>
+
+---
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzaffarjutt470-star&theme=tokyonight">
