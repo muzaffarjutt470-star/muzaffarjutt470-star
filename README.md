@@ -110,7 +110,7 @@ My approach is simple:
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=muzaffarjutt470-star&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170">
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=muzaffarjutt470-star&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=muzaffarjutt470-star&layout=compact&theme=tokyonight&hide_border=true" height="170"> 
 </p>
 
 ---
