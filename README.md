@@ -254,17 +254,26 @@ https://github.com/muzaffarjutt470-star/Blockchain-Secure-Authentication
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzaffarjutt470-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarjutt470-star&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
+  <img src="https://github-stats-extended.vercel.app/api?username=muzaffarjutt470-star&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=muzaffarjutt470-star&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages">
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=muzaffarjutt470-star&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muzaffarjutt470-star&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="GitHub Trophies">
 </p>
+
 
 ---
 
