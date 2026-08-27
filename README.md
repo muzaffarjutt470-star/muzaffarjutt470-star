@@ -1,177 +1,232 @@
 # 👋 Hi, I'm MUZAFFAR MUSHTAQ
 
-### 🛡️ Cybersecurity Researcher | 🐍 Python Developer | 🎓 Computer Science Student | 🔐 Security Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Python+Security+Developer;SOC+%26+Threat+Hunting+Enthusiast;Defensive+Security+Builder;Computer+Science+Student" alt="Typing SVG" />
+</p>
 
 <p align="center">
+  <strong>🛡️ Detect • 🔎 Hunt • 🚨 Respond • 🔐 Secure • 🚀 Build</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/muzaffarjutt470-star">
+    <img src="https://img.shields.io/badge/GitHub-muzaffarjutt470--star-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
   <img src="https://img.shields.io/badge/Cybersecurity-Researcher-EF4444?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-Security%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Kali%20Linux-Security-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/SOC-Security%20Monitoring-2563EB?style=for-the-badge&logo=security&logoColor=white">
-  <img src="https://img.shields.io/badge/Defensive-Security-16A34A?style=for-the-badge&logo=shield&logoColor=white">
+  <img src="https://img.shields.io/badge/Defensive%20Security-16A34A?style=for-the-badge&logo=shield&logoColor=white">
 </p>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm **MUZAFFAR MUSHTAQ**, a Computer Science student and cybersecurity enthusiast focused on building **practical, defensive, and security-oriented software**.
+
+My work combines:
+
+> 🐍 **Python Development**
+> 🛡️ **Cybersecurity Engineering**
+> 🔎 **Threat Hunting**
+> 🚨 **SOC & Security Monitoring**
+> 🌐 **Web & Network Security**
+> 🦠 **Malware Analysis**
+> ☁️ **Cloud Security**
+> 🤖 **Security Automation**
+> 🔐 **Secure Application Development**
+
+I enjoy transforming cybersecurity concepts into **working tools, detection systems, monitoring platforms, automation frameworks, and security research projects**.
+
+### 💡 My Development Philosophy
 
 <p align="center">
-  <strong>🔎 Detect • 🛡️ Defend • 🚨 Respond • 🚀 Build</strong>
+
+**📚 Learn → 🛠️ Build → 🧪 Test → 🔐 Secure → 📝 Document → 🚀 Improve**
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🛡️ Cybersecurity Focus
 
-I'm **MUZAFFAR MUSHTAQ**, a Computer Science student and cybersecurity enthusiast focused on building practical security tools, automation systems, and defensive security solutions.
-
-My work combines **Python development, cybersecurity engineering, threat detection, security monitoring, web security, network security, malware analysis, cloud security, and incident response**.
-
-I enjoy turning cybersecurity concepts into working projects that can be tested, documented, improved, and demonstrated in realistic defensive environments.
-
-### My Development Philosophy
-
-> **Learn → Build → Test → Secure → Document → Improve**
-
----
-
-## 🛡️ Cybersecurity Focus
-
-- 🔎 Threat Detection & Analysis
-- 🚨 Security Operations Center (SOC)
-- 📊 Security Monitoring & Log Analysis
-- 🌐 Web Application Security
-- 📡 Network Security
-- ☁️ Cloud Security
-- 🦠 Malware Analysis
-- 🎣 Phishing Detection
-- 🧠 Threat Intelligence
-- 🚨 Incident Response
-- 🤖 Security Automation
-- 🔐 Authentication & Access Control
-- 🐧 Linux & Kali Linux
-- 🔬 Security Research
+<table>
+<tr>
+<td>🔎 Threat Hunting</td>
+<td>🚨 Threat Detection</td>
+<td>📊 SOC Monitoring</td>
+</tr>
+<tr>
+<td>🌐 Web Security</td>
+<td>📡 Network Security</td>
+<td>☁️ Cloud Security</td>
+</tr>
+<tr>
+<td>🦠 Malware Analysis</td>
+<td>🎣 Phishing Detection</td>
+<td>🧠 Threat Intelligence</td>
+</tr>
+<tr>
+<td>🚨 Incident Response</td>
+<td>🤖 Security Automation</td>
+<td>🔐 Authentication</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Security Projects
 
-## 🛡️ Security Monitoring & SOC
+## 🛡️ Threat Hunting & SOC
 
-| Project | Description |
-|---|---|
-| 🚨 **Honeypot Attack Monitoring System** | Flask-based honeypot monitoring platform for collecting and analyzing security events. |
-| ☁️ **Cloud Security Monitoring System** | SOC-style dashboard for monitoring cloud security events and detection activity. |
-| 📊 **Security Log Analysis Dashboard** | Security dashboard for analyzing logs and identifying suspicious activity. |
-| 🚨 **Automated Incident Response Platform** | SOAR-inspired platform for automating defensive incident-response workflows. |
-| 📡 **Network Intrusion Detection System** | Machine-learning-based network intrusion detection using security traffic data. |
+| Project                                     | Description                                                                                                              |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 🔎 **Threat Hunting Platform**              | Centralized threat-hunting platform for security events, IOC analysis, detection, alerting, and investigation workflows. |
+| 🚨 **Honeypot Attack Monitoring System**    | Flask-based honeypot monitoring platform for collecting and analyzing suspicious security activity.                      |
+| ☁️ **Cloud Security Monitoring System**     | SOC-style monitoring dashboard for cloud security events and detection activity.                                         |
+| 📊 **Security Log Analysis Dashboard**      | Security monitoring dashboard for analyzing logs and identifying suspicious activity.                                    |
+| 🚨 **Automated Incident Response Platform** | SOAR-inspired platform for automating defensive incident-response workflows.                                             |
+| 📡 **Network Intrusion Detection System**   | Machine-learning-based network intrusion detection using security traffic data.                                          |
 
 ---
 
-## 🔎 Threat Detection & Security Analysis
+## 🔎 Threat Detection & Analysis
 
-| Project | Description |
-|---|---|
-| 🎣 **Phishing Detector** | Machine-learning-based URL analysis and phishing detection system. |
-| 🌐 **Web Vulnerability Scanner** | Defensive web security assessment tool for identifying common application security issues. |
-| 🌊 **DNS Tunneling Detection Tool** | Detects suspicious DNS communication patterns associated with tunneling behavior. |
-| 🦠 **Malware Analysis Sandbox** | Controlled environment for defensive malware analysis and security research. |
-| 🧠 **Threat Intelligence Aggregator** | Aggregates security intelligence and organizes threat-related indicators. |
-| 🦠 **Ransomware Detection Framework** | Defensive framework for detecting ransomware-like file activity and suspicious behavior. |
+| Project                               | Description                                                                                |
+| ------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 🎣 **Phishing Detector**              | Machine-learning-based system for detecting suspicious and phishing URLs.                  |
+| 🌐 **Web Vulnerability Scanner**      | Defensive web-security assessment tool for identifying common application security issues. |
+| 🌊 **DNS Tunneling Detection Tool**   | Detects suspicious DNS communication patterns associated with tunneling behavior.          |
+| 🦠 **Malware Analysis Sandbox**       | Controlled environment for defensive malware analysis and security research.               |
+| 🧠 **Threat Intelligence Aggregator** | Collects and organizes threat intelligence and security indicators.                        |
+| 🦠 **Ransomware Detection Framework** | Defensive framework for detecting ransomware-like file activity and suspicious behavior.   |
 
 ---
 
 ## 🔐 Security Engineering
 
-| Project | Description |
-|---|---|
-| 🔑 **Password Security Auditing Tool** | Defensive password-security assessment and auditing utility. |
-| 📁 **Secure File Sharing System** | Secure file-sharing application with authentication and cryptographic protection. |
-| 📶 **Wi-Fi Security Assessment Tool** | Authorized wireless-security assessment and analysis toolkit. |
-| 🔐 **Blockchain Secure Authentication** | Blockchain-backed authentication system combining a web backend, smart contract, and wallet-based authentication. |
-| 🛡️ **USB Malware Detection Tool** | Defensive USB security scanner using multiple malware-analysis and risk-detection techniques. |
-| 🌐 **Browser Phishing Protection** | Browser-based phishing protection system for analyzing suspicious URLs. |
-| 📡 **IoT Device Security Analyzer** | Network-based IoT security analysis and risk-assessment platform. |
+| Project                                 | Description                                                                                                |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 🔑 **Password Security Auditing Tool**  | Defensive utility for password-security assessment and auditing.                                           |
+| 📁 **Secure File Sharing System**       | Secure file-sharing application using authentication and cryptographic protection.                         |
+| 📶 **Wi-Fi Security Assessment Tool**   | Authorized wireless-security assessment and analysis toolkit.                                              |
+| 🔐 **Blockchain Secure Authentication** | Blockchain-backed authentication system combining web backend, smart contracts, and wallet authentication. |
+| 🛡️ **USB Malware Detection Tool**      | Multi-layer defensive USB scanner using malware analysis and risk detection techniques.                    |
+| 🌐 **Browser Phishing Protection**      | Browser-based phishing protection system for suspicious URL analysis.                                      |
+| 📡 **IoT Device Security Analyzer**     | Network-based IoT device discovery, analysis, port scanning, and risk assessment platform.                 |
 
 ---
 
-# 🔗 Project Repositories
+# 🌟 Project Showcase
 
-### 🛡️ Security Monitoring
+### 🔎 Threat Hunting Platform
 
-- 🚨 [Honeypot Attack Monitoring System](https://github.com/muzaffarjutt470-star/Honeypot-Attack-Monitoring-System)
-- ☁️ [Cloud Security Monitoring System](https://github.com/muzaffarjutt470-star/Cloud-Security-Monitoring-System)
-- 📊 [Security Log Analysis Dashboard](https://github.com/muzaffarjutt470-star/Security-Log-Analysis-Dashboard)
-- 🚨 [Automated Incident Response Platform](https://github.com/muzaffarjutt470-star/Automated-Incident-Response-Platform)
-- 📡 [Network Intrusion Detection System](https://github.com/muzaffarjutt470-star/Network-Intrusion-Detection-System)
+**Focus:** Threat Detection • IOC Analysis • Threat Intelligence • MITRE ATT&CK • SOC
 
-### 🔎 Threat Detection
+A centralized defensive platform designed to support security analysts in:
 
-- 🎣 [Phishing Detector](https://github.com/muzaffarjutt470-star/Phishing-Detector)
-- 🌐 [Web Vulnerability Scanner](https://github.com/muzaffarjutt470-star/Web-vulnerability-scanner)
-- 🌊 [DNS Tunneling Detection Tool](https://github.com/muzaffarjutt470-star/DNS-Tunneling-Detection-Tool)
-- 🦠 [Malware Analysis Sandbox](https://github.com/muzaffarjutt470-star/Malware-analysis-sandbox)
-- 🧠 [Threat Intelligence Aggregator](https://github.com/muzaffarjutt470-star/Threat-Intelligence-Aggregator)
-- 🦠 [Ransomware Detection Framework](https://github.com/muzaffarjutt470-star/Ransomware-Detection-Framework)
+* 🔎 Threat hunting
+* 🧩 IOC investigation
+* 🚨 Alert management
+* 🧠 Threat intelligence
+* 🎯 MITRE ATT&CK mapping
+* 📊 Security monitoring
 
-### 🔐 Security Engineering
+🔗 **Repository:**
+https://github.com/muzaffarjutt470-star/Threat-Hunting-Platform
 
-- 🔑 [Password Security Auditing Tool](https://github.com/muzaffarjutt470-star/Password-Security-Auditing-Tool)
-- 📁 [Secure File Sharing System](https://github.com/muzaffarjutt470-star/Secure-File-Sharing)
-- 📶 [Wi-Fi Security Assessment Tool](https://github.com/muzaffarjutt470-star/Wi-Fi-Security-Assessment-Tool)
-- 🔐 [Blockchain Secure Authentication](https://github.com/muzaffarjutt470-star/Blockchain-Secure-Authentication)
-- 🛡️ [USB Malware Detection Tool](https://github.com/muzaffarjutt470-star/USB-Malware-Detection-Tool)
-- 🌐 [Browser Phishing Protection](https://github.com/muzaffarjutt470-star/Browser-Phishing-Protection)
-- 📡 [IoT Device Security Analyzer](https://github.com/muzaffarjutt470-star/IoT-Device-Security-Analyzer)
+---
+
+### 🛡️ USB Malware Detection Tool
+
+**Focus:** Malware Detection • File Analysis • YARA • ClamAV • Risk Scoring
+
+A defensive security scanner designed to analyze USB contents using multiple detection and analysis techniques.
+
+🔗 **Repository:**
+https://github.com/muzaffarjutt470-star/USB-Malware-Detection-Tool
+
+---
+
+### 🔐 Blockchain Secure Authentication
+
+**Focus:** Blockchain • Authentication • Smart Contracts • Web Security
+
+A blockchain-backed authentication project combining a web application, smart contract, and wallet-based authentication workflow.
+
+🔗 **Repository:**
+https://github.com/muzaffarjutt470-star/Blockchain-Secure-Authentication
+
+---
+
+# 🔗 All Project Repositories
+
+## 🛡️ Security Monitoring
+
+* 🚨 [Honeypot Attack Monitoring System](https://github.com/muzaffarjutt470-star/Honeypot-Attack-Monitoring-System)
+* ☁️ [Cloud Security Monitoring System](https://github.com/muzaffarjutt470-star/Cloud-Security-Monitoring-System)
+* 📊 [Security Log Analysis Dashboard](https://github.com/muzaffarjutt470-star/Security-Log-Analysis-Dashboard)
+* 🚨 [Automated Incident Response Platform](https://github.com/muzaffarjutt470-star/Automated-Incident-Response-Platform)
+* 📡 [Network Intrusion Detection System](https://github.com/muzaffarjutt470-star/Network-Intrusion-Detection-System)
+* 🔎 [Threat Hunting Platform](https://github.com/muzaffarjutt470-star/Threat-Hunting-Platform)
+
+## 🔎 Threat Detection
+
+* 🎣 [Phishing Detector](https://github.com/muzaffarjutt470-star/Phishing-Detector)
+* 🌐 [Web Vulnerability Scanner](https://github.com/muzaffarjutt470-star/Web-vulnerability-scanner)
+* 🌊 [DNS Tunneling Detection Tool](https://github.com/muzaffarjutt470-star/DNS-Tunneling-Detection-Tool)
+* 🦠 [Malware Analysis Sandbox](https://github.com/muzaffarjutt470-star/Malware-analysis-sandbox)
+* 🧠 [Threat Intelligence Aggregator](https://github.com/muzaffarjutt470-star/Threat-Intelligence-Aggregator)
+* 🦠 [Ransomware Detection Framework](https://github.com/muzaffarjutt470-star/Ransomware-Detection-Framework)
+
+## 🔐 Security Engineering
+
+* 🔑 [Password Security Auditing Tool](https://github.com/muzaffarjutt470-star/Password-Security-Auditing-Tool)
+* 📁 [Secure File Sharing System](https://github.com/muzaffarjutt470-star/Secure-File-Sharing)
+* 📶 [Wi-Fi Security Assessment Tool](https://github.com/muzaffarjutt470-star/Wi-Fi-Security-Assessment-Tool)
+* 🔐 [Blockchain Secure Authentication](https://github.com/muzaffarjutt470-star/Blockchain-Secure-Authentication)
+* 🛡️ [USB Malware Detection Tool](https://github.com/muzaffarjutt470-star/USB-Malware-Detection-Tool)
+* 🌐 [Browser Phishing Protection](https://github.com/muzaffarjutt470-star/Browser-Phishing-Protection)
+* 📡 [IoT Device Security Analyzer](https://github.com/muzaffarjutt470-star/IoT-Device-Security-Analyzer)
 
 ---
 
 # 💻 Technical Skills
 
-## 🐍 Programming
+## 🐍 Programming & Development
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
-## 🌐 Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,javascript,html,css,flask&perline=7" alt="Programming Skills">
 </p>
 
 ## 🛡️ Cybersecurity
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/YARA-111111?style=for-the-badge">
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge">
   <img src="https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/YARA-111111?style=for-the-badge">
 </p>
 
-## ☁️ Security & Infrastructure
+## ☁️ Infrastructure & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,sqlite&perline=5" alt="Infrastructure Skills">
 </p>
 
 ## 📊 Data & Machine Learning
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 </p>
 
-## ⛓️ Blockchain Development
+## ⛓️ Blockchain
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black">
   <img src="https://img.shields.io/badge/Web3-Technology-7B61FF?style=for-the-badge">
@@ -181,168 +236,195 @@ I enjoy turning cybersecurity concepts into working projects that can be tested,
 
 # 🧰 Development Environment
 
-- 🐧 Kali Linux
-- 🐍 Python Virtual Environments
-- 💻 Linux Command Line
-- 🧪 Pytest
-- 📦 npm
-- ⛓️ Hardhat
-- 🔧 Git & GitHub
-- 🌐 Flask
-- 🗄️ SQLite
-- 🛡️ Security Testing Tools
+```text
+🐧 Kali Linux
+🐍 Python
+🌐 Flask
+🗄️ SQLite
+🧪 Pytest
+🔧 Git & GitHub
+🐳 Docker
+💻 Linux CLI
+⛓️ Hardhat
+🛡️ Security Testing Tools
+```
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=muzaffarjutt470-star&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170">
-  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs?username=muzaffarjutt470-star&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=muzaffarjutt470-star&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarjutt470-star&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muzaffarjutt470-star&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muzaffarjutt470-star&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="GitHub Trophies">
 </p>
 
 ---
-
-# 🔥 GitHub Streak
-# 📈 Contribution Activity
-
 
 # 🏆 Certifications & Learning
 
 ### 🛡️ Cybersecurity
 
-- IBM Ethical Hacking with Open Source Tools
-- Google Cybersecurity Foundations
-- Introduction to Ethical Hacking Principles
-- Ethical Hacking with Kali Linux
+* **IBM — Ethical Hacking with Open Source Tools**
+* **Google — Foundations of Cybersecurity**
+* **Google — Play It Safe: Manage Security Risks**
+* **SkillUp — Introduction to Ethical Hacking Principles**
+* **IBM — Ethical Hacking with Kali Linux**
 
 ### 🐍 Security Development
 
-- Python for Cybersecurity Specialization — Infosec
-- Python Security Automation
-- Security Tool Development
+* **Infosec — Python for Cybersecurity Specialization**
+* Python Security Automation
+* Security Tool Development
+* Defensive Security Engineering
 
-### 🔎 Practical Security Areas
+### 🔎 Practical Security
 
-- Threat Detection
-- Vulnerability Assessment
-- Network Security
-- Malware Analysis
-- Security Monitoring
-- Incident Response
-- Threat Intelligence
+* Threat Detection
+* Vulnerability Assessment
+* Network Security
+* Malware Analysis
+* Security Monitoring
+* Incident Response
+* Threat Intelligence
 
 ---
 
 # 🎓 Education
 
-### Bachelor of Science in Computer Science
+## Bachelor of Science in Computer Science
 
 **University of the Punjab**
 
 **2025 – 2029**
 
-Focused on:
+### Areas of Interest
 
-- Computer Science
-- Programming
-- Software Development
-- Cybersecurity
-- Networks
-- Security Engineering
+* 💻 Computer Science
+* 🐍 Programming
+* 🛡️ Cybersecurity
+* 🌐 Computer Networks
+* 🔐 Security Engineering
+* 🤖 Automation
+* 📊 Data & Machine Learning
 
 ---
 
 # 🎯 Current Goals
 
-- 🛡️ Build advanced defensive cybersecurity systems
-- 🐍 Improve Python security automation
-- 🚨 Develop professional SOC solutions
-- 🔎 Strengthen threat detection capabilities
-- 🌐 Improve web application security knowledge
-- 📡 Advance network security skills
-- ☁️ Explore cloud security architecture
-- 🧠 Study advanced security engineering
-- ⛓️ Expand blockchain security knowledge
-- 📚 Continue building and documenting security projects
+```text
+🛡️ Build advanced defensive cybersecurity systems
+🐍 Improve Python security automation
+🚨 Develop professional SOC solutions
+🔎 Strengthen threat-hunting capabilities
+🌐 Improve web application security
+📡 Advance network security skills
+☁️ Explore cloud security architecture
+🦠 Improve malware-analysis capabilities
+⛓️ Expand blockchain-security knowledge
+📚 Continuously learn and build
+```
 
 ---
 
-# 🧪 Security Research Approach
+# 🔬 Security Research Approach
 
-My projects focus on practical defensive cybersecurity.
+My projects follow a practical security-development lifecycle:
 
-I emphasize:
+<p align="center">
 
-**Detection**
+**🔎 Detect**
+↓
+**🧠 Analyze**
+↓
+**🛠️ Build**
+↓
+**🧪 Test**
+↓
+**🔐 Secure**
+↓
+**📝 Document**
+↓
+**🚀 Improve**
 
-Identifying suspicious behavior, indicators, and security events.
+</p>
 
-**Analysis**
+### 🔎 Detection
 
-Understanding technical evidence and determining potential security risks.
+Identify suspicious behavior, indicators, anomalies, and security events.
 
-**Automation**
+### 🧠 Analysis
 
-Reducing repetitive security tasks through Python and security tooling.
+Investigate technical evidence and determine potential security risks.
 
-**Monitoring**
+### 🤖 Automation
 
-Building dashboards and systems that help visualize security activity.
+Automate repetitive security operations using Python and security tooling.
 
-**Response**
+### 📊 Monitoring
 
-Designing workflows that support structured defensive incident handling.
+Build dashboards and systems that provide useful security visibility.
 
-**Documentation**
+### 🚨 Response
 
-Maintaining clear project documentation, testing procedures, and security considerations.
+Develop structured workflows for defensive incident handling.
+
+### 📝 Documentation
+
+Document architecture, installation, testing, security considerations, and project results.
 
 ---
 
 # 🔐 Security Philosophy
 
-> **Security is not only about finding vulnerabilities — it's about understanding risk, improving defenses, and building resilient systems.**
+> ### **"Security is not only about finding vulnerabilities — it's about understanding risk, improving defenses, and building resilient systems."**
 
-I believe effective cybersecurity combines:
+I believe strong cybersecurity combines:
 
-**People + Process + Technology + Continuous Learning**
+<p align="center">
 
----
+**👥 People + ⚙️ Process + 💻 Technology + 📚 Continuous Learning**
 
-# 📚 What I'm Learning
-
-- Advanced Python
-- Security Automation
-- SOC Operations
-- Threat Detection
-- SIEM Concepts
-- Network Security
-- Web Security
-- Malware Analysis
-- Cloud Security
-- Blockchain Security
-- Secure Software Development
-- Incident Response
-- Threat Intelligence
+</p>
 
 ---
 
-# 🤝 Collaboration
+# 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SOC%20Operations-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Threat%20Hunting-EF4444?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SIEM-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloud%20Security-0EA5E9?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Incident%20Response-F97316?style=for-the-badge">
+</p>
+
+---
+
+# 🤝 Open to Collaboration
 
 I'm interested in collaborating on projects related to:
 
-- 🛡️ Cybersecurity
-- 🔎 Threat Detection
-- 🚨 SOC Automation
-- 🐍 Python Security Tools
-- 🌐 Web Security
-- 📡 Network Security
-- ☁️ Cloud Security
-- 🦠 Malware Analysis
-- ⛓️ Blockchain Security
-- 🤖 Security Automation
-- 📊 Security Monitoring
+* 🛡️ Cybersecurity
+* 🔎 Threat Hunting
+* 🚨 SOC Automation
+* 🐍 Python Security Tools
+* 🌐 Web Security
+* 📡 Network Security
+* ☁️ Cloud Security
+* 🦠 Malware Analysis
+* ⛓️ Blockchain Security
+* 🤖 Security Automation
+* 📊 Security Monitoring
+* 🔐 Secure Software Development
 
 ---
 
@@ -366,12 +448,12 @@ I'm interested in collaborating on projects related to:
 
 If you find my cybersecurity projects useful:
 
-⭐ Star my repositories  
-🍴 Explore my projects  
-🐛 Report reproducible issues  
-💡 Suggest improvements  
-🤝 Collaborate on defensive security projects  
-📚 Help improve documentation  
+⭐ **Star** the repositories
+🍴 **Fork** projects you want to explore
+🐛 **Report** reproducible issues
+💡 **Suggest** improvements
+🤝 **Collaborate** on security projects
+📚 **Contribute** to documentation
 
 ---
 
@@ -379,22 +461,26 @@ If you find my cybersecurity projects useful:
 
 All cybersecurity projects published on this profile are intended for:
 
-- Educational purposes
-- Defensive security
-- Authorized security testing
-- Security research
-- Controlled laboratory environments
+* 🎓 Educational purposes
+* 🛡️ Defensive security
+* 🔬 Security research
+* ✅ Authorized security testing
+* 🧪 Controlled laboratory environments
 
-Security testing should always be performed only against systems, networks, applications, and data that you own or have explicit authorization to test.
+Security testing should only be performed against systems, networks, applications, and data that you **own or have explicit authorization to test**.
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=120&section=footer" alt="Footer">
+</p>
 
 <p align="center">
   <strong>🛡️ MUZAFFAR MUSHTAQ</strong>
 </p>
 
 <p align="center">
-  Cybersecurity Researcher • Python Developer • Computer Science Student
+  <b>Cybersecurity Researcher • Python Developer • Computer Science Student</b>
 </p>
 
 <p align="center">
@@ -406,5 +492,5 @@ Security testing should always be performed only against systems, networks, appl
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
