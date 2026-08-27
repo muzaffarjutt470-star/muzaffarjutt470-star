@@ -258,9 +258,10 @@ https://github.com/muzaffarjutt470-star/Blockchain-Secure-Authentication
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=muzaffarjutt470-star&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages">
 </p>
 
----### 🔥 GitHub Streak
+---
+### 🔥 GitHub Streak
 <p>
-  <img src="https://streak-stats.demolab.com/?user=muzaffarjutt470-star&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=muzaffarjutt470-star&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ### 🏆 GitHub Trophies
