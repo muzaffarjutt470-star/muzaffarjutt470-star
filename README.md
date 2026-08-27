@@ -261,11 +261,13 @@ https://github.com/muzaffarjutt470-star/Blockchain-Secure-Authentication
 ---
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=muzaffarjutt470&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=muzaffarjutt470-star&theme=tokyonight&hide_border=true&border_radius=10)
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=muzaffarjutt470&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=muzaffarjutt470-star&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7)
 
+### 💻 Top Languages
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=muzaffarjutt470-star&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 # 🏆 Certifications & Learning
