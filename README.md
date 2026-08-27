@@ -260,19 +260,11 @@ https://github.com/muzaffarjutt470-star/Blockchain-Secure-Authentication
 
 ---
 
-# 🔥 GitHub Streak
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=muzaffarjutt470&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="./profile/github-streak.svg" alt="GitHub Streak">
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="./profile/github-trophies.svg" alt="GitHub Trophies">
-</p>
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=muzaffarjutt470&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
